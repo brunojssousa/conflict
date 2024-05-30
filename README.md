@@ -1,2 +1,2 @@
-# conflict
-Exercise to solve conflict
+# Conflict
+This is an exercise to solve conflicts in git and github.
